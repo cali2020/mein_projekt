@@ -1,0 +1,1 @@
+print("cubaan menulis python")
